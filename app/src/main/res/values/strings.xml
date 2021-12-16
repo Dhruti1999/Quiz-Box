@@ -1,0 +1,41 @@
+<resources>
+
+    <string name="app_name">QuizBox</string>
+    <string name="description">A quiz is a quick and informal assessment of student knowledge. It will take less than 3 minutes to complete.
+        Thank you</string>
+    <string name="take_quiz">Take Quiz</string>
+    <string name="quiz_category">Quiz</string>
+    <string name="q5">when you attemp quiz?</string>
+    <string name="q6">Are you confident yes or no?</string>
+    <string name="submit">SUBMIT</string>
+    <string name="fill_name">Fill in your name</string>
+    <string name="welcome_message">Welcome User</string>
+    <string name="n1">Question 1.</string>
+    <string name="n2">Question 2</string>
+    <string name="q1">What is your name?</string>
+    <string name="q2">Where are you from?</string>
+    <string name="sand">Dhruti</string>
+    <string name="stone">Akash</string>
+    <string name="none">Urvashi</string>
+    <string name="zero">Ahmedabad</string>
+    <string name="undefined">Baroda</string>
+    <string name="sine">Anand</string>
+    <string name="n3">Question 3.</string>
+    <string name="q3">What is your occupation?</string>
+    <string name="entityA">Privat sector</string>
+    <string name="entityB">Gov sector</string>
+    <string name="n4">Question 4.</string>
+    <string name="q4">what is your e-mail id?</string>
+    <string name="entityA1">dhr12@gmail.com</string>
+    <string name="entityB1">dhrutipatel@gmail.com</string>
+    <string name="n5">Question 5.</string>
+    <string name="opt1">1 dec</string>
+    <string name="opt2">2 dec</string>
+    <string name="opt3">3 dec</string>
+    <string name="opt4">4 dec</string>
+    <string name="n6">Question 6.</string>
+
+
+
+
+</resources>
